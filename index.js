@@ -3,7 +3,7 @@ const fs = require('fs');
 const request = require('request');
 const Jimp = require('jimp');
 const bot = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MEMBERS, Intents.FLAGS.GUILD_MESSAGES] });
-const token = 'ODgwOTUyNzkwNDcyNjA1NzM2.YSlxOA.R84Q50ETO0qdpWcnU5jDUHbsVQw';
+const token = 'TOKEN';
 const Prefix = '+';
 
 let pic;
